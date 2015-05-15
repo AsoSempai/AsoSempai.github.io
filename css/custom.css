@@ -8,6 +8,17 @@
 
 /*Propias*/
 
+.topcard{
+  margin-top: 30px;
+}
+
+@media only screen and (max-width : 650px) {
+    .topcard{
+        margin-top: 0px;
+        }
+      }
+
+
 a {
   color:#444;
 }
