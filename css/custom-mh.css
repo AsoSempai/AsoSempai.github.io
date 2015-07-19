@@ -1,0 +1,37 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+/*Propias*/
+
+
+body{
+  background-color: #EEEEEE
+}
+
+.card {
+  background-color: #3A3949;
+}
+
+.color-mh-a {
+  background-color: #1C1B45 !important;
+}
+
+.color-mh-b{
+  background-color: #EEEEEE !important;
+}
+
+.color-mh-c {
+  background-color: #3A3949 !important;
+}
+
+.color-mh-d {
+  background-color: #000000 !important;
+}
+a {
+  color:#161F70;
+}
